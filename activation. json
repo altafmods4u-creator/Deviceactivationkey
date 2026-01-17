@@ -36,4 +36,11 @@
         "expirydate": "15-12-2026",
         "Allowoffline": true
     }
+
+{
+        "device_id": "f4b9a8918aeb589e",
+        "key": "rk123",
+        "expirydate": "15-12-2026",
+        "Allowoffline": true
+    }
 ]
